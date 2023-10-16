@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/notes_taker_app/static/css/main.ba2e91ba.css",
+    "main.js": "/notes_taker_app/static/js/main.077a001a.js",
+    "index.html": "/notes_taker_app/index.html",
+    "main.ba2e91ba.css.map": "/notes_taker_app/static/css/main.ba2e91ba.css.map",
+    "main.077a001a.js.map": "/notes_taker_app/static/js/main.077a001a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba2e91ba.css",
+    "static/js/main.077a001a.js"
+  ]
+}
